@@ -1,6 +1,6 @@
 <fable>
 	<page background= "bg.png" soundtrack="song.mp3">
-        <agent x="175 y "250" text"Bem vindo à P 
+        <agent x="175" y="250" text="Bem vindo à Página 1/> 
   
     
   </page>
